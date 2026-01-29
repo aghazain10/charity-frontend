@@ -1,5 +1,3 @@
-**2. Create `README.md` for Nuxt Frontend:**
-
 ````markdown
 # Charity Website - Nuxt 3 Frontend
 
