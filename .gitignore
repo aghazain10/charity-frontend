@@ -1,0 +1,15 @@
+# Nuxt .gitignore
+node_modules
+.nuxt
+dist
+.output
+.cache
+.env
+.env.*
+.idea
+.vscode
+.DS_Store
+coverage
+*.log
+.npmrc
+.yarnrc
